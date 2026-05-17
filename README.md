@@ -1,6 +1,6 @@
 # Andrey Shahnovich
 
-Software Engineer focused on Java/Spring Boot, Docker/DevOps, and AI-enabled backend automation.
+Backend & Automation Engineer focused on Java/Spring Boot, Python/Playwright, TypeScript/Node, Docker/DevOps, and AI-enabled backend systems.
 
 I work async-first and text-only: no calls required for small technical tasks. I work from written requirements, logs, configs, repositories, and clear deliverables.
 
