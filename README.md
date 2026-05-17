@@ -1,6 +1,6 @@
 # Andrey Shahnovich
 
-Software Engineer focused on Java/Spring Boot + Docker/DevOps tasks.
+Software Engineer focused on Java/Spring Boot, Docker/DevOps, and AI-enabled backend automation.
 
 I work async-first and text-only: no calls required for small technical tasks. I work from written requirements, logs, configs, repositories, and clear deliverables.
 
@@ -12,6 +12,7 @@ I work async-first and text-only: no calls required for small technical tasks. I
 - GitHub Actions / GitLab CI setup
 - Backend/DevOps diagnostics and short written reports
 - Production/server rescue: 500/502/504, app not starting, broken deploy
+- AI backend / agent ops diagnostics: agents, browser automation, worker queues, Docker/CI/CD, integrations and runbooks
 
 ## Delivery Format
 
@@ -20,9 +21,10 @@ I work async-first and text-only: no calls required for small technical tasks. I
 - README/runbook
 - Short handoff note
 
-## Portfolio Demo
+## Public Proof
 
-[Spring Boot + Docker Compose + CI demo](https://github.com/01452/spring-boot-docker-devops-portfolio)
+- [Spring Boot + Docker deployment diagnostic](https://github.com/01452/spring-boot-docker-devops-portfolio)
+- [Local-first Web of Science automation](https://github.com/01452/web-of-science-search)
 
 ## Links
 
