@@ -1,6 +1,6 @@
 # Andrey Shahnovich
 
-Backend & Automation Engineer focused on Java/Spring Boot, Python/Playwright, TypeScript/Node, Docker/DevOps, and AI-enabled backend systems.
+Backend & DevOps Engineer focused on async diagnostics for Spring Boot, Docker/CI/CD, deploy issues, and backend automation.
 
 I work async-first and text-only: no calls required for small technical tasks. I work from written requirements, logs, configs, repositories, and clear deliverables.
 
@@ -12,7 +12,7 @@ I work async-first and text-only: no calls required for small technical tasks. I
 - GitHub Actions / GitLab CI setup
 - Backend/DevOps diagnostics and short written reports
 - Production/server rescue: 500/502/504, app not starting, broken deploy
-- AI backend / agent ops diagnostics: agents, browser automation, worker queues, Docker/CI/CD, integrations and runbooks
+- Backend automation workflows when relevant: Python/Playwright, TypeScript/Node, worker queues, and AI integrations
 
 ## Delivery Format
 
