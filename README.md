@@ -1,13 +1,14 @@
 # Andrey Shahnovich
 
-Backend & DevOps Engineer focused on async diagnostics for Spring Boot, Docker/CI/CD, deploy issues, and backend automation.
+Backend & DevOps Engineer focused on async diagnostics for Java backend, CI/CD, Kubernetes, deploy issues, and backend automation.
 
 I work async-first and text-only: no calls required for small technical tasks. I work from written requirements, logs, configs, repositories, and clear deliverables.
 
 ## What I Help With
 
-- Spring Boot error fixing and backend debugging
-- Dockerfile + Docker Compose setup for Spring Boot apps
+- Java backend error fixing and debugging: Spring Boot, Quarkus, REST APIs, integrations
+- Build/runtime diagnostics: Maven, Gradle, JVM services
+- Container and runtime setup: Docker, Docker Compose, Kubernetes manifests
 - VPS/Linux/Nginx deploy support
 - GitHub Actions / GitLab CI setup
 - Backend/DevOps diagnostics and short written reports
